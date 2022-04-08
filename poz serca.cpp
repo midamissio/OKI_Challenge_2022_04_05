@@ -2,7 +2,7 @@
 	Zadanie z platformy szkopul.edy.pl
 	Nazwa zadania: Poziome Serca
 	Link do zadania: https://szkopul.edu.pl/problemset/problem/lw5UT-NoSzVkV5rZdEG7QRuP/site/?key=submissions
-	Wymik: 100/100
+	Wynik: 100/100
 */
 #include <iostream>
 #include <vector>
