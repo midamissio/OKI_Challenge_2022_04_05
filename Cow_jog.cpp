@@ -1,3 +1,9 @@
+/*
+	Zadanie z platformy usaco.org
+	Nazwa zadania: Cow Jog
+	Link do zadania: http://usaco.org/index.php?page=viewproblem2&cpid=489
+	Wynik: 100/100
+*/
 #include <iostream>
 #include <fstream>
 #include <stdio.h>
